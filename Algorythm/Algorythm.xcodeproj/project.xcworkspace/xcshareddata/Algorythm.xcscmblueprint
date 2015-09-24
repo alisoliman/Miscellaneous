@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "C4196C92ED5480A6606D849C43DC56E2D22943AC",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "37D2F404D03AD49818C75C81E00E0F723E899340" : 0,
+    "C4196C92ED5480A6606D849C43DC56E2D22943AC" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "D6596EBD-9F3F-4116-B69B-02E808D1C744",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "37D2F404D03AD49818C75C81E00E0F723E899340" : "",
+    "C4196C92ED5480A6606D849C43DC56E2D22943AC" : "Miscellaneous\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Algorythm",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Algorythm\/Algorythm.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/alisoliman\/RibbitApp.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "37D2F404D03AD49818C75C81E00E0F723E899340"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/alisoliman\/Miscellaneous.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "C4196C92ED5480A6606D849C43DC56E2D22943AC"
+    }
+  ]
+}
